@@ -1,2 +1,0 @@
-# semiturnitin
-Ai detecation
