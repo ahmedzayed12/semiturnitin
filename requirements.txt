@@ -3,3 +3,5 @@ reportlab
 pdfplumber
 python-docx
 PyMuPDF
+pypdf
+docx2txt
