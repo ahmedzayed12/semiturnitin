@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+reportlab
+python-docx
+docx2txt
+pdfplumber
+pypdf
+mammoth
+weasyprint
