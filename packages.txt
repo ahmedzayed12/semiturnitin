@@ -1,2 +1,7 @@
-build-essential
-python3-dev
+libreoffice-writer
+fontconfig
+fonts-dejavu-core
+fonts-liberation
+fonts-crosextra-carlito
+fonts-crosextra-caladea
+fonts-noto-core
