@@ -1,0 +1,22 @@
+# Downloaded ML models and caches
+models/
+.cache/
+.huggingface/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated local application data
+customer_ratings.json
+*.log
+*.tmp
+~$*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
